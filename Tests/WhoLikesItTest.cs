@@ -7,7 +7,7 @@ using System.Text;
 namespace Tests
 {
     [TestFixture]
-    public class SolutionTest
+    public class WhoLikesItTest
     {
         [Test]
         public static void Test1()
