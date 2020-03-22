@@ -6,6 +6,10 @@ namespace Codewars
 {
     public class WhoLikesIt
     {
+        /// <summary>
+        /// https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/csharp
+        /// Who Likes It?
+        /// </summary>
         public static string Likes(string[] name)
         {
             switch(name.Length)
