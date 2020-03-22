@@ -3,7 +3,7 @@ using Codewars;
 
 namespace Tests
 {
-    public class Tests
+    public class WillYouMakeItTest
     {
         [Test]
         public void Test1()
