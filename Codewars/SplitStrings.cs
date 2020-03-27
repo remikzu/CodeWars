@@ -5,6 +5,10 @@ using System.Linq;
 
 namespace Codewars
 {
+    /// <summary>
+    /// https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/csharp
+    /// Split Strings
+    /// </summary>
     public class SplitStrings
     {
         public static string[] Solution(string str)
